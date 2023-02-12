@@ -1,4 +1,4 @@
-# Simple-C-UEFI-Library
+# Simple-x64-C-UEFI-Library
 A UEFI Library made for C (but can probably be used for C++) made for simplicity.
 Libraries such as EDK2 have large development trees which can be hard to navigate.
 The purpose of this Library is to simplify the process of UEFI development.
